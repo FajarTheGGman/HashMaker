@@ -9,4 +9,8 @@ Tools buat bikin code hash
 
 2.git clone https://github.com/FajarTheGGman/HashMaker
 
+3.cd HashMaker
+
+4.sh hashmaker.sh
+
 # Done
